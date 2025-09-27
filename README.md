@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @imane-creator
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Imane Laaraj
 
-<!---
-imane-creator/imane-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👀 I’m interested in **Artificial Intelligence, Web Development, and DevOps**
+* 🌱 I’m currently learning **AI, Machine Learning, and Cloud/DevOps tools**
+* 💞️ I’m looking to collaborate on **AI projects and open-source web applications**
+* 📫 How to reach me: **[laarajimane22@gmail.com](mailto:laarajimane22@gmail.com)** | [LinkedIn](https://linkedin.com/in/laarajimane)
+* 😄 Pronouns: **She/Her**
+* ⚡ Fun fact: I enjoy building smart apps that solve real-world problems
